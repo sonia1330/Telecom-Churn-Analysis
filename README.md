@@ -1,4 +1,7 @@
 # Telecom-Churn-Analysis
+Interactive Dashboard
+https://www.novypro.com/project/customer-churn-analysis-telco
+
 As the telecom industry becomes even more competitive, new subscribers are getting more expensive to acquire and current subscribers are more likely to leave (“churn out”) in their search for a better deal. It is therefore of utmost importance that telecom companies track the inevitable churn rate, identify key drivers of churn and find ways to “correct” them, in order to increase customer retention to ensure profitable growth.
 
 The key goals of the project are to :
